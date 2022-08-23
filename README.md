@@ -1,3 +1,3 @@
-# test
-To update readme
-test2
+RavynOS ASCII for terminal fetch.
+
+Tested working on neofetch
